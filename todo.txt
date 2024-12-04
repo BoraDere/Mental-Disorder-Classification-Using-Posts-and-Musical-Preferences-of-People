@@ -31,8 +31,8 @@ EDA
 
 
 Text Processing
-- retweet kismini at (@ olan kisim)
-- emojileri at/donustur 
+x retweet kismini at (@ olan kisim)
+x emojileri at/donustur 
 - stopwordleri at / tfidf yap 
 - normalziation
 - \n \t atilacak 
