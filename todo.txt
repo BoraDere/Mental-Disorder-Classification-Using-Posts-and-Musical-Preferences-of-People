@@ -1,0 +1,41 @@
+EDA
+
+- disorder basina kac music var
+- user basina ortalama kac music dusuyor 
+- en cok gecen artistler
+- disorder basina en cok dinlenen artist
+
+
+Droplama
+
+- Text uzunluguna gore outlier atma
+- cince korece bunlar atilcak 
+- * drop the "created at" feature
+- Remove non-English tweets (if applicable) using langdetect or similar libraries:
+
+
+Sampling 
+
+- disorder
+- artist
+- user id 
+
+
+EDA
+
+- disorder basina kac music var
+- user basina ortalama kac music dusuyor 
+- en cok gecen artistler
+- disorder basina en cok dinlenen artist
+
+
+
+Text Processing
+- retweet kismini at (@ olan kisim)
+- emojileri at/donustur 
+- stopwordleri at / tfidf yap 
+- normalziation
+- \n \t atilacak 
+- urlleri cikar
+- spell correction yap
+- 5. Lemmatization and Stemming
