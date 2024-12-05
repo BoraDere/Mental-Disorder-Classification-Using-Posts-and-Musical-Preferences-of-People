@@ -33,9 +33,9 @@ EDA
 Text Processing
 x retweet kismini at (@ olan kisim)
 x emojileri at/donustur 
-- stopwordleri at / tfidf yap 
-- normalziation
-- \n \t atilacak 
-- urlleri cikar
-- spell correction yap
-- 5. Lemmatization and Stemming
+x stopwordleri at / tfidf yap 
+x normalziation
+x \n \t atilacak (stopwords zaten çıkarıyor)
+x urlleri cikar
+x spell correction yap
+x 5. Lemmatization and Stemming
